@@ -1,4 +1,4 @@
-# 🌦️ Weather Web App(Internship Project)
+# 🌦️ Weather Web App
 
 Hey this is a simple and responsive weather application that I made during my **CodeClause Internship** using **HTML**, **CSS**, and **JavaScript** — no frameworks, just vibes 💫. It fetches real-time weather data from the **OpenWeatherMap API** and displays temperature, humidity, wind speed, and weather conditions for any city.
 
@@ -27,8 +27,8 @@ Hey this is a simple and responsive weather application that I made during my **
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Noor3800/CodeClauseInternship_WeatherApp.git
-   cd CodeClauseInternship_WeatherApp
+   git clone https://github.com/MUmarChoudhary/Weather_App.git
+   cd Weather_App
    
 2. Open index.html in your browser. That's it!
 
@@ -52,7 +52,7 @@ Hey this is a simple and responsive weather application that I made during my **
 
 ---
 
-## 📸 Sneak Peek
+## 📸 Preview
 
 
 ![Weather Screenshot](images/weather-app.png)
