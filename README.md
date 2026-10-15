@@ -1,6 +1,6 @@
 # 🌦️ Weather Web App
 
-Hey this is a simple and responsive weather application that I made during my **CodeClause Internship** using **HTML**, **CSS**, and **JavaScript** — no frameworks, just vibes 💫. It fetches real-time weather data from the **OpenWeatherMap API** and displays temperature, humidity, wind speed, and weather conditions for any city.
+Hey this is a simple and responsive weather application that I made weather app using **HTML**, **CSS**, and **JavaScript** — no frameworks, just vibes 💫. It fetches real-time weather data from the **OpenWeatherMap API** and displays temperature, humidity, wind speed, and weather conditions for any city.
 
 💡 Type a city name and boom — you'll get the current weather, temp, humidity, and wind speed — all fetched live from the OpenWeatherMap API!
 
@@ -28,7 +28,7 @@ Hey this is a simple and responsive weather application that I made during my **
 1. **Clone the repository**
    ```bash
    git clone https://github.com/MUmarChoudhary/Weather_App.git
-   cd Weather_App
+   cd WeatherApp
    
 2. Open index.html in your browser. That's it!
 
